@@ -1,4 +1,3 @@
-# Iotsoft
 Certainly! Creating an IoT program for managing a person’s state and sending notifications in case of risk or danger involves several crucial steps. Let’s delve into each one:
 
 Identify Sensors:
